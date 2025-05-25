@@ -1,5 +1,0 @@
-streamlit>=1.32
-pandas>=2.0
-plotly>=5.18       # for the semicircle gauge
-# Optional goodies
-streamlit-extras==0.4.0   # has confetti, switch_page helper
